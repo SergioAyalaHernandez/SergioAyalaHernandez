@@ -34,7 +34,7 @@ Para ver mis proyectos, ¡visita mi [portafolio](https://portafoliosergioayala.n
 
 - Portafolio: [Sergio Ayala](https://portafoliosergioayala.netlify.app/home)
 - LinkedIn: [sergio-ayala](https://www.linkedin.com/in/sergio-ayala-50b7b0114)
-- Correo: [sergio@example.com](mailto:sergio@example.com)
+- Correo: [sergio.ayala9208@gmail.com](mailto:sergio.ayala9208@gmail.com)
 
 <!-- Aquí puedes incluir una imagen o un GIF que te represente -->
 ![Sergio](https://via.placeholder.com/150)
