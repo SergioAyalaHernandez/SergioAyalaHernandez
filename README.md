@@ -37,7 +37,7 @@ Para ver mis proyectos, ¡visita mi [portafolio](https://portafoliosergioayala.n
 - Correo: [sergio.ayala9208@gmail.com](mailto:sergio.ayala9208@gmail.com)
 
 <!-- Aquí puedes incluir una imagen o un GIF que te represente -->
-![Sergio]([https://via.placeholder.com/150](https://instagram.fbog19-1.fna.fbcdn.net/v/t51.2885-19/344551439_203411595794124_89197995132144447_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fbog19-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=eFuDSrreMF0AX8qJf2l&edm=ACWDqb8BAAAA&ccb=7-5&oh=00_AfDAy0ouYtOJZNDjWgPFA_nSvZdSUmHzyN98OiGfuk56vg&oe=65BC32AE&_nc_sid=ee9879)https://instagram.fbog19-1.fna.fbcdn.net/v/t51.2885-19/344551439_203411595794124_89197995132144447_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fbog19-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=eFuDSrreMF0AX8qJf2l&edm=ACWDqb8BAAAA&ccb=7-5&oh=00_AfDAy0ouYtOJZNDjWgPFA_nSvZdSUmHzyN98OiGfuk56vg&oe=65BC32AE&_nc_sid=ee9879)
+![Sergio]("https://instagram.fbog19-1.fna.fbcdn.net/v/t51.2885-19/344551439_203411595794124_89197995132144447_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fbog19-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=eFuDSrreMF0AX8qJf2l&edm=ACWDqb8BAAAA&ccb=7-5&oh=00_AfDAy0ouYtOJZNDjWgPFA_nSvZdSUmHzyN98OiGfuk56vg&oe=65BC32AE&_nc_sid=ee9879")
 
 <!-- Este es un contador de visitas para tu perfil de GitHub -->
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=SergioAyalaHernandez.SergioAyalaHernandez)
