@@ -20,7 +20,7 @@ Estudiante de ingeniería en software y desarrollador full-stack. Apasionado por
 
 ## Mis Proyectos
 
-Para ver mis proyectos, ¡visita mi [portafolio](https://portafoliosergioayala.netlify.app/home)!
+Para ver mis proyectos, ¡visita mi [portafolio]!
 
 <!-- Esto generará tarjetas de GitHub para tus repositorios -->
 <a href="https://github.com/SergioAyalaHernandez/JAVA_SPRING_CRUD">
