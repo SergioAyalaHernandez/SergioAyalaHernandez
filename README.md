@@ -32,7 +32,7 @@ Para ver mis proyectos, ¡visita mi [portafolio]!
 
 ## Contacto
 
-- Portafolio: [Sergio Ayala]([https://portafoliosergioayala.netlify.app/home](https://sergio-ayala.vercel.app/)
+- Portafolio: [Sergio Ayala](https://sergio-ayala.vercel.app/)
 - LinkedIn: [sergio-ayala](https://www.linkedin.com/in/sergio-ayala-50b7b0114)
 - Correo: [sergio.ayala9208@gmail.com](mailto:sergio.ayala9208@gmail.com)
 
