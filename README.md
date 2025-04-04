@@ -1,6 +1,6 @@
 # Hola, soy Sergio Ayala Hernández 👋
 
-Estudiante de ingeniería en software y desarrollador full-stack. Apasionado por el desarrollo web y backend con Angular, React, y Spring Boot con Node.js.
+Estudiante de ingeniería en software y desarrollador full-stack. Apasionado por el desarrollo web, en front con Angular, React y en el back con Spring Boot y Node.js.
 
 ![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioAyalaHernandez&show_icons=true&theme=radical)
 
